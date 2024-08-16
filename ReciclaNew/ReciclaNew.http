@@ -1,0 +1,6 @@
+@ReciclaNew_HostAddress = http://localhost:5261
+
+GET {{ReciclaNew_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

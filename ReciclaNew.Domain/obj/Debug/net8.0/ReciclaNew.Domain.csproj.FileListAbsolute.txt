@@ -1,0 +1,11 @@
+C:\Users\leofl\source\repos\ReciclaNew\ReciclaNew.Domain\bin\Debug\net8.0\ReciclaNew.Domain.deps.json
+C:\Users\leofl\source\repos\ReciclaNew\ReciclaNew.Domain\bin\Debug\net8.0\ReciclaNew.Domain.dll
+C:\Users\leofl\source\repos\ReciclaNew\ReciclaNew.Domain\bin\Debug\net8.0\ReciclaNew.Domain.pdb
+C:\Users\leofl\source\repos\ReciclaNew\ReciclaNew.Domain\obj\Debug\net8.0\ReciclaNew.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leofl\source\repos\ReciclaNew\ReciclaNew.Domain\obj\Debug\net8.0\ReciclaNew.Domain.AssemblyInfoInputs.cache
+C:\Users\leofl\source\repos\ReciclaNew\ReciclaNew.Domain\obj\Debug\net8.0\ReciclaNew.Domain.AssemblyInfo.cs
+C:\Users\leofl\source\repos\ReciclaNew\ReciclaNew.Domain\obj\Debug\net8.0\ReciclaNew.Domain.csproj.CoreCompileInputs.cache
+C:\Users\leofl\source\repos\ReciclaNew\ReciclaNew.Domain\obj\Debug\net8.0\ReciclaNew.Domain.dll
+C:\Users\leofl\source\repos\ReciclaNew\ReciclaNew.Domain\obj\Debug\net8.0\refint\ReciclaNew.Domain.dll
+C:\Users\leofl\source\repos\ReciclaNew\ReciclaNew.Domain\obj\Debug\net8.0\ReciclaNew.Domain.pdb
+C:\Users\leofl\source\repos\ReciclaNew\ReciclaNew.Domain\obj\Debug\net8.0\ref\ReciclaNew.Domain.dll
