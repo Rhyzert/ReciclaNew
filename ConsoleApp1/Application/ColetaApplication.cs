@@ -1,0 +1,47 @@
+﻿using ApplicationService.Interface;
+using DDD.Domain.ReportRadarContext;
+using DomainService.Interface;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ApplicationService.Application
+{
+    public class ColetaApplication : IColetaApplication
+    {
+        public readonly IColetaService _coletaService;
+
+        public ColetaApplication(IColetaService coletaService)
+        {
+            _coletaService = coletaService;
+        }
+        public List<Coleta> GetDenuncia()
+        {
+            return _coletaService.GetColetas();
+        }
+
+        public Coleta GetDenunciaById(int id)
+        {
+            return _coletaService.GetColeta(id);
+        }
+
+        public void InsertColeta(Coleta coleta)
+        {
+            _coletaService.InsertColeta(coleta);
+        }
+
+        public void UpdateDenuncia(Coleta coleta)
+        {
+            _coletaService.UpdateColeta(coleta);
+        }
+
+        public void DeleteDenuncia(int id)
+        {
+            _coletaService.DeleteColeta(id);
+        }
+
+        
+    }
+}
