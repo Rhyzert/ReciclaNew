@@ -13,7 +13,6 @@ namespace DomainService.Interface
         List<Cidade> GetCidade();
         Cidade GetCidadeById(int id);
         void InsertCidade(Cidade cidade);
-        void UpdateCidade(Cidade cidade);
         void DeleteCidade(int id);
 
 

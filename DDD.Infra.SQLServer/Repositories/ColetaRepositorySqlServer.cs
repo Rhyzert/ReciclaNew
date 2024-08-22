@@ -39,8 +39,8 @@ namespace DDD.Infra.SQLServer.Repositories
             {
                 return _context.Coletas.ToList();
             }
-            catch (Exception ex) { 
-                throw ex
+            catch (Exception ex) {
+                throw ex;
             }
 
         }

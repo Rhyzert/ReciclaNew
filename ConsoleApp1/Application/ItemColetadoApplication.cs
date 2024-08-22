@@ -28,19 +28,19 @@ namespace ApplicationService.Application
             return _itemColetadoService.GetItensColetados();
         }
 
-        public void InsertItemColetado(ItemColetado itemColetado)
+        public void InsertItem(ItemColetado itemColetado)
         {
-            _itemColetadoService.InsertItemColetado(itemColetado);
+            _itemColetadoService.InsertItem(itemColetado);
         }
 
-        public void UpdateItemColetado(ItemColetado itemColetado)
+        public void UpdateItem(ItemColetado itemColetado)
         {
-            _itemColetadoService.UpdateItemColetado(itemColetado);
+            _itemColetadoService.UpdateItem(itemColetado);
         }
 
-        public void DeleteItemColetado(int id)
+        public void DeleteItem(int id)
         {
-            _itemColetadoService.DeleteItemColetado(id);
+            _itemColetadoService.DeleteItem(id);
         }
 
         

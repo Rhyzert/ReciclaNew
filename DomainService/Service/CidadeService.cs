@@ -34,11 +34,6 @@ namespace DomainService.Service
             _cidadeRepository.InsertCidade(cidade);
         }
 
-        public void UpdateCidade(Cidade cidade)
-        {
-            _cidadeRepository.UpdateCidade(cidade);
-        }
-
         public void DeleteCidade(int id)
         {
 

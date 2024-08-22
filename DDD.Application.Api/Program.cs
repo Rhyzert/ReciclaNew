@@ -46,28 +46,32 @@ builder.Services.AddAuthentication(x =>
 //IOC - Dependency Injection
 //builder.Services.AddScoped<IAlunoRepository, AlunoRepository>();
 builder.Services.AddScoped<IUsuarioRepository, UsuarioRepositorySqlServer>();
-builder.Services.AddScoped<ITipoDeCrimeRepository, TipoDeCrimeRepositorySqlServer>();
 builder.Services.AddScoped<IEstadoRepository, EstadoRepositorySqlServer>();
-builder.Services.AddScoped<IBairroRepository, CidadeRepositorySqlServer>();
+builder.Services.AddScoped<IBairroRepository, BairroRepositorySqlServer>();
 builder.Services.AddScoped<IItemColetadoRepository, ItemColetadoRepositorySqlServer>();
-builder.Services.AddScoped<IDenunciasConfirmRepository, ColetaRepositorySqlServer>();
+builder.Services.AddScoped<IColetaRepository, ColetaRepositorySqlServer>();
+builder.Services.AddScoped<ICidadeRepository, CidadeRepositorySqlServer>();
+builder.Services.AddScoped<IVeiculoRepository, VeiculoRepositorySqlServer>();
 
 //Dependency Injection Application
-builder.Services.AddScoped<IBairroApplication, TipoDeCrimeApplication>();
-builder.Services.AddScoped<ICidadeApplication, CidadeApplication>();
-builder.Services.AddScoped<IEstadoApplication, EstadoApplication>();
-builder.Services.AddScoped<IColetaApplication, ColetaApplication>();
 builder.Services.AddScoped<IUsuarioApplication, UsuarioApplication>();
+builder.Services.AddScoped<IEstadoApplication, EstadoApplication>();
+builder.Services.AddScoped<IBairroApplication, BairroApplication>();
 builder.Services.AddScoped<IItemColetadoApplication, ItemColetadoApplication>();
+builder.Services.AddScoped<ICidadeApplication, CidadeApplication>();
+builder.Services.AddScoped<IColetaApplication, ColetaApplication>();
+builder.Services.AddScoped<IVeiculoApplication, VeiculoApplication>();
+
 
 
 //Dependency Injection Service
-builder.Services.AddScoped<ITipoDeCrimeService, EstadoService>();
-builder.Services.AddScoped<ICidadeService, CidadeService>();
-builder.Services.AddScoped<IItemColetadoService, ColetaService>();
-builder.Services.AddScoped<IEstadoService, ItemColetadoService>();
 builder.Services.AddScoped<IUsuarioService, UsuarioService>();
-builder.Services.AddScoped<IDenunciaConfirmService, BairroService>();
+builder.Services.AddScoped<IEstadoService, EstadoService>();
+builder.Services.AddScoped<IBairroService, BairroService>();
+builder.Services.AddScoped<IItemColetadoService, ItemColetadoService>();
+builder.Services.AddScoped<ICidadeService, CidadeService>();
+builder.Services.AddScoped<IColetaService, ColetaService>();
+builder.Services.AddScoped<IVeiculoService, VeiculoService>();
 
 
 

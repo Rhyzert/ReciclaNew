@@ -11,22 +11,22 @@ namespace DDD.Application.Api.Controllers
     [Route("api/[controller]")]
     [Authorize]
     [ApiController]
-    public class TipoDeCrimeController : ControllerBase
+    public class ItemColetadoController : ControllerBase
     {
-        readonly IBairroApplication _tipoDeCrimeRepository;
+        readonly IItemColetadoApplication _itemColetadoRepository;
 
-        public TipoDeCrimeController(IBairroApplication tipoDeCrimeRepository)
+        public ItemColetadoController(IItemColetadoApplication itemColetadoRepository)
         {
-            _tipoDeCrimeRepository = tipoDeCrimeRepository;
+            _itemColetadoRepository = itemColetadoRepository;
         }
 
         [HttpGet]
-        public IActionResult GetTipoDeCrime()
+        public IActionResult GetItensColetados()
         {
             try
             {
-                var tipoDeCrimes = _tipoDeCrimeRepository.GetTipoDeCrime();
-                return Ok(tipoDeCrimes);
+                var coleta = _itemColetadoRepository.GetItensColetados();
+                return Ok(coleta);
             }
             catch (Exception ex)
             {
@@ -35,12 +35,12 @@ namespace DDD.Application.Api.Controllers
         }
 
         [HttpGet("{id}")]
-        public IActionResult GetTipoDeCrimeById(int id)
+        public IActionResult GetItem(int id)
         {
             try
             {
-                var tipoDeCrimes = _tipoDeCrimeRepository.GetTipoDeCrimeById(id);
-                return Ok(tipoDeCrimes);
+                var item = _itemColetadoRepository.GetItemColetado(id);
+                return Ok(item);
             }
             catch (Exception ex)
             {
@@ -49,11 +49,11 @@ namespace DDD.Application.Api.Controllers
         }
 
         [HttpPost]
-        public IActionResult InsertTipoDeCrime(itemColeta tipoDeCrime)
+        public IActionResult InsertItem(ItemColetado item)
         {
             try
             {
-                _tipoDeCrimeRepository.InsertTipoDeCrime(tipoDeCrime);
+                _itemColetadoRepository.InsertItem(item);
                 return Ok();
             }
             catch (Exception ex)
@@ -63,11 +63,11 @@ namespace DDD.Application.Api.Controllers
         }
 
         [HttpPut]
-        public IActionResult UpdateTipoDeCrime(itemColeta tipoDeCrime)
+        public IActionResult UpdateItem(ItemColetado item)
         {
             try
             {
-                _tipoDeCrimeRepository.UpdateTipoDeCrime(tipoDeCrime);
+                _itemColetadoRepository.UpdateItem(item);
                 return Ok();
             }
             catch (Exception ex)
@@ -76,12 +76,12 @@ namespace DDD.Application.Api.Controllers
             }
         }
 
-        [HttpDelete("{TipoId}")]
-        public IActionResult DeleteTipoDeCrime(int TipoId)
+        [HttpDelete("{id}")]
+        public IActionResult DeleteItem(int id)
         {
             try
             {
-                _tipoDeCrimeRepository.DeleteTipoDeCrime(TipoId);
+                _itemColetadoRepository.DeleteItem(id);
                 return Ok();
             }
             catch (Exception ex)

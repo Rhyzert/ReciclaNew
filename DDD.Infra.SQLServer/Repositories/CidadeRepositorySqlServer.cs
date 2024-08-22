@@ -46,22 +46,6 @@ namespace DDD.Infra.SQLServer.Repositories
             }
         }
 
-
-        public void UpdateCidade(Cidade cidade)
-        {
-            try
-            {
-                _context.Entry(cidade).State = EntityState.Modified;
-                _context.SaveChanges();
-
-            }
-            catch (Exception ex)
-            {
-
-                throw ex;
-            }
-        }
-
         public void DeleteCidade(Cidade cidade)
         {
             try

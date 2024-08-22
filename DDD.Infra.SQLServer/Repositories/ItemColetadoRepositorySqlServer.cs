@@ -34,7 +34,7 @@ namespace DDD.Infra.SQLServer.Repositories
 
         }
 
-        public void InsertItemColetado(ItemColetado denuncias)
+        public void InsertItem(ItemColetado denuncias)
         {
             try
             {
@@ -49,7 +49,7 @@ namespace DDD.Infra.SQLServer.Repositories
         }
 
 
-        public void UpdateItemColetados(ItemColetado itemColetado)
+        public void UpdateItem(ItemColetado itemColetado)
         {
             try
             {
@@ -64,7 +64,7 @@ namespace DDD.Infra.SQLServer.Repositories
             }
         }
 
-        public void DeleteItemColetado(ItemColetado itemColetado)
+        public void DeleteItem(ItemColetado itemColetado)
         {
             try
             {

@@ -11,11 +11,11 @@ namespace DDD.Application.Api.Controllers
     [ApiController]
     public class EstadoController : ControllerBase
     {
-        readonly IEstadoRepository _EstadoRepository;
+        readonly IEstadoRepository _estadoRepository;
 
         public EstadoController(IEstadoRepository estadoRepository)
         {
-            _EstadoRepository = estadoRepository;
+            _estadoRepository = estadoRepository;
         }
 
         // GET: api/<AlunosController>
@@ -23,14 +23,14 @@ namespace DDD.Application.Api.Controllers
         [HttpGet]
         public ActionResult<List<Estado>> Get()
         {
-            return Ok(_EstadoRepository.GetEstado());
+            return Ok(_estadoRepository.GetEstados());
         }
 
         [Authorize]
         [HttpGet("{id}")]
         public ActionResult<Estado> GetById(int id)
         {
-            return Ok(_EstadoRepository.GetEstadoById(id));
+            return Ok(_estadoRepository.GetEstado(id));
         }
 
     }

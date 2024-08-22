@@ -19,12 +19,12 @@ namespace ApplicationService.Application
         }
         public List<Estado> GetEstado()
         {
-            return _estadoService.GetEstado();
+            return _estadoService.GetEstados();
         }
 
         public Estado GetEstadoById(int id)
         {
-            return _estadoService.GetEstadoById(id);
+            return _estadoService.GetEstado(id);
         }
 
     }

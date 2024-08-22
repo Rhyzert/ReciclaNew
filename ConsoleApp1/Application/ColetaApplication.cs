@@ -17,12 +17,12 @@ namespace ApplicationService.Application
         {
             _coletaService = coletaService;
         }
-        public List<Coleta> GetDenuncia()
+        public List<Coleta> GetColetas()
         {
             return _coletaService.GetColetas();
         }
 
-        public Coleta GetDenunciaById(int id)
+        public Coleta GetColeta(int id)
         {
             return _coletaService.GetColeta(id);
         }
@@ -32,12 +32,12 @@ namespace ApplicationService.Application
             _coletaService.InsertColeta(coleta);
         }
 
-        public void UpdateDenuncia(Coleta coleta)
+        public void UpdateColeta(Coleta coleta)
         {
             _coletaService.UpdateColeta(coleta);
         }
 
-        public void DeleteDenuncia(int id)
+        public void DeleteColeta(int id)
         {
             _coletaService.DeleteColeta(id);
         }

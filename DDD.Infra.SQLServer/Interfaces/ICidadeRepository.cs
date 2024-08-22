@@ -13,7 +13,6 @@ namespace DDD.Infra.SQLServer.Interfaces
         public List<Cidade> GetCidades();
         public Cidade GetCidade(int id);
         public void InsertCidade(Cidade cidade);
-        public void UpdateCidade(Cidade cidade);
         public void DeleteCidade(Cidade cidade);
     }
 }

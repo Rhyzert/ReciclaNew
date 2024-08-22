@@ -22,13 +22,13 @@ namespace DDD.Infra.SQLServer.Repositories
 
         public Estado GetEstado(int id)
         {
-            return _context.Estado.Find(id);
+            return _context.Estados.Find(id);
         }
 
         public List<Estado> GetEstados()
         {
             //return  _context.Alunos.Include(x => x.Disciplinas).ToList();
-            return _context.Estado.ToList();
+            return _context.Estados.ToList();
 
         }
 
@@ -36,7 +36,7 @@ namespace DDD.Infra.SQLServer.Repositories
         {
             try
             {
-                _context.Coletas.Add(estado);
+                _context.Estados.Add(estado);
                 _context.SaveChanges();
             }
             catch (Exception ex)
