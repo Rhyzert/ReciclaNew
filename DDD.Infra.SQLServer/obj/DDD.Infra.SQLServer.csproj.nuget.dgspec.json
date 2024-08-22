@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj": {}
+    "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Domain\\Domain.csproj": {
+    "D:\\Projeto\\ReciclaNew\\DDD.Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Projeto\\ReciclaNew\\DDD.Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Domain\\Domain.csproj",
+        "projectPath": "D:\\Projeto\\ReciclaNew\\DDD.Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\leofl\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Domain\\obj\\",
+        "outputPath": "D:\\Projeto\\ReciclaNew\\DDD.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leofl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,18 +83,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj": {
+    "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj",
+        "projectUniqueName": "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj",
         "projectName": "DDD.Infra.SQLServer",
-        "projectPath": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj",
+        "projectPath": "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj",
         "packagesPath": "C:\\Users\\leofl\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\obj\\",
+        "outputPath": "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leofl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -112,8 +112,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Domain\\Domain.csproj"
+              "D:\\Projeto\\ReciclaNew\\DDD.Domain\\Domain.csproj": {
+                "projectPath": "D:\\Projeto\\ReciclaNew\\DDD.Domain\\Domain.csproj"
               }
             }
           }
@@ -186,7 +186,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

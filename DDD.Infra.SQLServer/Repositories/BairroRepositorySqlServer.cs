@@ -31,6 +31,50 @@ namespace DDD.Infra.SQLServer.Repositories
             return _context.Bairros.ToList();
 
         }
-       
+
+        public void InsertBairro(Bairro bairro)
+        {
+            try
+            {
+                _context.Bairros.Add(bairro);
+                _context.SaveChanges();
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+
+            }
+        }
+
+
+        public void UpdateBairro(Bairro bairro)
+        {
+            try
+            {
+                _context.Entry(bairro).State = EntityState.Modified;
+                _context.SaveChanges();
+
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+            }
+        }
+
+        public void DeleteBairro(Bairro bairro)
+        {
+            try
+            {
+                _context.Set<Bairro>().Remove(bairro);
+                _context.SaveChanges();
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+            }
+        }
+
     }
 }

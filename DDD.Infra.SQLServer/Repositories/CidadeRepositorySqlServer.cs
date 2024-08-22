@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace DDD.Infra.SQLServer.Repositories
 {
-    public class CidadeRepositorySqlServer : IBairroRepository
+    public class CidadeRepositorySqlServer : ICidadeRepository
     {
 
         private readonly SqlContext _context;
@@ -20,17 +20,61 @@ namespace DDD.Infra.SQLServer.Repositories
             _context = context;
         }
 
-        public Cidade GetCidadeById(int id)
+        public Cidade GetCidade(int id)
         {
-            return _context.Cidade.Find(id);
+            return _context.Cidades.Find(id);
         }
 
-        public List<Cidade> GetCidade()
+        public List<Cidade> GetCidades()
         {
             //return  _context.Alunos.Include(x => x.Disciplinas).ToList();
-            return _context.Cidade.ToList();
+            return _context.Cidades.ToList();
 
         }
-       
+
+        public void InsertCidade(Cidade cidade)
+        {
+            try
+            {
+                _context.Cidades.Add(cidade);
+                _context.SaveChanges();
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+
+            }
+        }
+
+
+        public void UpdateCidade(Cidade cidade)
+        {
+            try
+            {
+                _context.Entry(cidade).State = EntityState.Modified;
+                _context.SaveChanges();
+
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+            }
+        }
+
+        public void DeleteCidade(Cidade cidade)
+        {
+            try
+            {
+                _context.Set<Cidade>().Remove(cidade);
+                _context.SaveChanges();
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+            }
+        }
+
     }
 }

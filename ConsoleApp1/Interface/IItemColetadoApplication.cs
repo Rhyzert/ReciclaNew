@@ -11,8 +11,8 @@ namespace ApplicationService.Interface
     {
         ItemColetado GetItemColetado(int id);
         List<ItemColetado> GetItensColetados();
-        void InsertItemColetado(ItemColetado itemColetado);
-        void UpdateItemColetado(ItemColetado itemColetado);
-        void DeleteItemColetado(int id);
+        void InsertItem(ItemColetado item);
+        void UpdateItem(ItemColetado item);
+        void DeleteItem(int id);
     }
 }

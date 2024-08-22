@@ -62,12 +62,12 @@ builder.Services.AddScoped<IItemColetadoApplication, ItemColetadoApplication>();
 
 
 //Dependency Injection Service
-builder.Services.AddScoped<ITipoDeCrimeService, TipoDeCrimeService>();
+builder.Services.AddScoped<ITipoDeCrimeService, EstadoService>();
 builder.Services.AddScoped<ICidadeService, CidadeService>();
-builder.Services.AddScoped<IItemColetadoService, DenunciaService>();
-builder.Services.AddScoped<IEstadoService, EstadoService>();
+builder.Services.AddScoped<IItemColetadoService, ColetaService>();
+builder.Services.AddScoped<IEstadoService, ItemColetadoService>();
 builder.Services.AddScoped<IUsuarioService, UsuarioService>();
-builder.Services.AddScoped<IDenunciaConfirmService, DenunciaConfirmService>();
+builder.Services.AddScoped<IDenunciaConfirmService, BairroService>();
 
 
 

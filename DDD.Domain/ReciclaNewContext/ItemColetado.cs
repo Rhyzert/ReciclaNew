@@ -16,6 +16,7 @@ namespace DDD.Domain.ReportRadarContext
         public string Descricao { get; set; }
         public string Volume { get; set; }
         public string PesoAproximado { get; set; }
+        public string Material {  get; set; }
 
     }
 }

@@ -60,11 +60,11 @@ namespace DDD.Infra.SQLServer.Repositories
         }
 
 
-        public void UpdateColeta(Coleta denunciasConfirm)
+        public void UpdateColeta(Coleta coleta)
         {
             try
             {
-                _context.Entry(denunciasConfirm).State = EntityState.Modified;
+                _context.Entry(coleta).State = EntityState.Modified;
                 _context.SaveChanges();
 
             }
@@ -74,6 +74,20 @@ namespace DDD.Infra.SQLServer.Repositories
                 throw ex;
             }
         }
-       
+
+        public void DeleteColeta(Coleta coleta)
+        {
+            try
+            {
+                _context.Set<Coleta>().Remove(coleta);
+                _context.SaveChanges();
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+            }
+        }
+
     }
 }

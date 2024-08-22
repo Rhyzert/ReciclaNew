@@ -20,17 +20,45 @@ namespace DDD.Infra.SQLServer.Repositories
             _context = context;
         }
 
-        public Estado GetEstadoById(int id)
+        public Estado GetEstado(int id)
         {
             return _context.Estado.Find(id);
         }
 
-        public List<Estado> GetEstado()
+        public List<Estado> GetEstados()
         {
             //return  _context.Alunos.Include(x => x.Disciplinas).ToList();
             return _context.Estado.ToList();
 
         }
-       
+
+        public void InsertEstado(Estado estado)
+        {
+            try
+            {
+                _context.Coletas.Add(estado);
+                _context.SaveChanges();
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+
+            }
+        }
+
+        public void DeleteEstado(Estado estado)
+        {
+            try
+            {
+                _context.Set<Estado>().Remove(estado);
+                _context.SaveChanges();
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+            }
+        }
+
     }
 }

@@ -10,24 +10,24 @@ namespace DDD.Application.Api.Controllers
     [ApiController]
     public class CidadeController : ControllerBase
     {
-        readonly IBairroRepository _CidadeRepository;
+        readonly ICidadeRepository _cidadeRepository;
 
-        public CidadeController(IBairroRepository cidadeRepository)
+        public CidadeController(ICidadeRepository cidadeRepository)
         {
-            _CidadeRepository = cidadeRepository;
+            _cidadeRepository = cidadeRepository;
         }
 
         // GET: api/<AlunosController>
         [HttpGet]
         public ActionResult<List<Cidade>> Get()
         {
-            return Ok(_CidadeRepository.GetCidade());
+            return Ok(_cidadeRepository.GetCidades());
         }
 
         [HttpGet("{id}")]
         public ActionResult<Cidade> GetById(int id)
         {
-            return Ok(_CidadeRepository.GetCidadeById(id));
+            return Ok(_cidadeRepository.GetCidade(id));
         }
 
     }

@@ -3396,11 +3396,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj",
+      "projectUniqueName": "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj",
       "projectName": "DDD.Infra.SQLServer",
-      "projectPath": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj",
+      "projectPath": "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj",
       "packagesPath": "C:\\Users\\leofl\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\obj\\",
+      "outputPath": "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leofl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3418,8 +3418,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Domain\\Domain.csproj": {
-              "projectPath": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Domain\\Domain.csproj"
+            "D:\\Projeto\\ReciclaNew\\DDD.Domain\\Domain.csproj": {
+              "projectPath": "D:\\Projeto\\ReciclaNew\\DDD.Domain\\Domain.csproj"
             }
           }
         }
@@ -3492,7 +3492,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   },
@@ -3501,7 +3501,7 @@
       "code": "NU1902",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "O pacote 'System.IdentityModel.Tokens.Jwt' 7.0.3 tem uma moderado vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
+      "message": "Package 'System.IdentityModel.Tokens.Jwt' 7.0.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
       "libraryId": "System.IdentityModel.Tokens.Jwt",
       "targetGraphs": [
         "net6.0"

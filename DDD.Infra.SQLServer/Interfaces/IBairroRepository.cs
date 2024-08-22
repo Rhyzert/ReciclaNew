@@ -12,6 +12,9 @@ namespace DDD.Infra.SQLServer.Interfaces
     {
         public List<Bairro> GetBairros();
         public Bairro GetBairro(int id);
+        public void InsertBairro(Bairro bairro);
+        public void UpdateBairro(Bairro bairro);
+        public void DeleteBairro(Bairro bairro);
 
     }
 }

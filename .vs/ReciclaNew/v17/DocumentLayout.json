@@ -1,125 +1,205 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\",
+  "WorkspaceRootPath": "D:\\Projeto\\ReciclaNew\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\consoleapp1\\application\\bairroapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|solutionrelative:consoleapp1\\application\\bairroapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\consoleapp1\\interface\\ibairroapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|solutionrelative:consoleapp1\\interface\\ibairroapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\domainservice\\interface\\ibairroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\interface\\ibairroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\domainservice\\interface\\icidadeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\interface\\icidadeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\consoleapp1\\application\\coletaapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|solutionrelative:consoleapp1\\application\\coletaapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\consoleapp1\\application\\itemcoletadoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|solutionrelative:consoleapp1\\application\\itemcoletadoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\consoleapp1\\interface\\iitemcoletadoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|solutionrelative:consoleapp1\\interface\\iitemcoletadoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\domainservice\\interface\\iitemcoletadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|d:\\projeto\\reciclanew\\domainservice\\interface\\iitemcoletadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\interface\\iitemcoletadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\consoleapp1\\application\\tipodecrimeapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|solutionrelative:consoleapp1\\application\\tipodecrimeapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|d:\\projeto\\reciclanew\\consoleapp1\\interface\\iveiculoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|solutionrelative:consoleapp1\\interface\\iveiculoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E95C00A9-348E-4209-BD99-3F97AD39FE4D}|DDD.Domain\\Domain.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\ddd.domain\\reciclanewcontext\\itemcoletado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E95C00A9-348E-4209-BD99-3F97AD39FE4D}|DDD.Domain\\Domain.csproj|solutionrelative:ddd.domain\\reciclanewcontext\\itemcoletado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|d:\\projeto\\reciclanew\\domainservice\\service\\veiculoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\service\\veiculoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C56682E2-FF03-4CD2-9EB9-B7A5231D4DB7}|DDD.Application.Api\\Application.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\ddd.application.api\\controllers\\coletacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C56682E2-FF03-4CD2-9EB9-B7A5231D4DB7}|DDD.Application.Api\\Application.csproj|solutionrelative:ddd.application.api\\controllers\\coletacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|d:\\projeto\\reciclanew\\ddd.infra.sqlserver\\interfaces\\iveiculorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|solutionrelative:ddd.infra.sqlserver\\interfaces\\iveiculorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\domainservice\\interface\\icoletaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\interface\\icoletaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|d:\\projeto\\reciclanew\\ddd.infra.sqlserver\\repositories\\veiculorepositorysqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|solutionrelative:ddd.infra.sqlserver\\repositories\\veiculorepositorysqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\domainservice\\interface\\iestadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\interface\\iestadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E95C00A9-348E-4209-BD99-3F97AD39FE4D}|DDD.Domain\\Domain.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\ddd.domain\\reciclanewcontext\\coleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E95C00A9-348E-4209-BD99-3F97AD39FE4D}|DDD.Domain\\Domain.csproj|solutionrelative:ddd.domain\\reciclanewcontext\\coleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\consoleapp1\\interface\\icoletaapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|solutionrelative:consoleapp1\\interface\\icoletaapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\ddd.infra.sqlserver\\repositories\\itemcoletadorepositorysqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|solutionrelative:ddd.infra.sqlserver\\repositories\\itemcoletadorepositorysqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\ddd.infra.sqlserver\\repositories\\estadorepositorysqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|solutionrelative:ddd.infra.sqlserver\\repositories\\estadorepositorysqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\ddd.infra.sqlserver\\repositories\\coletarepositorysqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|solutionrelative:ddd.infra.sqlserver\\repositories\\coletarepositorysqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\ddd.infra.sqlserver\\repositories\\bairrorepositorysqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|solutionrelative:ddd.infra.sqlserver\\repositories\\bairrorepositorysqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\ddd.infra.sqlserver\\repositories\\cidaderepositorysqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|d:\\projeto\\reciclanew\\ddd.infra.sqlserver\\repositories\\cidaderepositorysqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|solutionrelative:ddd.infra.sqlserver\\repositories\\cidaderepositorysqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\ddd.infra.sqlserver\\interfaces\\iitemcoletadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|solutionrelative:ddd.infra.sqlserver\\interfaces\\iitemcoletadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|d:\\projeto\\reciclanew\\ddd.infra.sqlserver\\repositories\\bairrorepositorysqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|solutionrelative:ddd.infra.sqlserver\\repositories\\bairrorepositorysqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\ddd.infra.sqlserver\\sqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|solutionrelative:ddd.infra.sqlserver\\sqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|d:\\projeto\\reciclanew\\domainservice\\service\\estadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\service\\estadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\ddd.infra.sqlserver\\interfaces\\iestadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|d:\\projeto\\reciclanew\\domainservice\\interface\\iestadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\interface\\iestadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|d:\\projeto\\reciclanew\\ddd.infra.sqlserver\\repositories\\estadorepositorysqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|solutionrelative:ddd.infra.sqlserver\\repositories\\estadorepositorysqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|d:\\projeto\\reciclanew\\ddd.infra.sqlserver\\interfaces\\iestadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|solutionrelative:ddd.infra.sqlserver\\interfaces\\iestadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\ddd.infra.sqlserver\\interfaces\\icoletarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|d:\\projeto\\reciclanew\\ddd.infra.sqlserver\\interfaces\\iitemcoletadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|solutionrelative:ddd.infra.sqlserver\\interfaces\\iitemcoletadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|d:\\projeto\\reciclanew\\ddd.infra.sqlserver\\repositories\\coletarepositorysqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|solutionrelative:ddd.infra.sqlserver\\repositories\\coletarepositorysqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|d:\\projeto\\reciclanew\\consoleapp1\\interface\\iitemcoletadoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|solutionrelative:consoleapp1\\interface\\iitemcoletadoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95C00A9-348E-4209-BD99-3F97AD39FE4D}|DDD.Domain\\Domain.csproj|d:\\projeto\\reciclanew\\ddd.domain\\reciclanewcontext\\itemcoletado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95C00A9-348E-4209-BD99-3F97AD39FE4D}|DDD.Domain\\Domain.csproj|solutionrelative:ddd.domain\\reciclanewcontext\\itemcoletado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|d:\\projeto\\reciclanew\\domainservice\\service\\itemcoletadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\service\\itemcoletadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|d:\\projeto\\reciclanew\\ddd.infra.sqlserver\\repositories\\itemcoletadorepositorysqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|solutionrelative:ddd.infra.sqlserver\\repositories\\itemcoletadorepositorysqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|d:\\projeto\\reciclanew\\domainservice\\service\\coletaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\service\\coletaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|d:\\projeto\\reciclanew\\ddd.infra.sqlserver\\interfaces\\icoletarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|solutionrelative:ddd.infra.sqlserver\\interfaces\\icoletarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\ddd.infra.sqlserver\\interfaces\\ibairrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|d:\\projeto\\reciclanew\\domainservice\\interface\\icoletaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\interface\\icoletaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|d:\\projeto\\reciclanew\\domainservice\\service\\bairroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\service\\bairroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|d:\\projeto\\reciclanew\\ddd.infra.sqlserver\\interfaces\\ibairrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|solutionrelative:ddd.infra.sqlserver\\interfaces\\ibairrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E95C00A9-348E-4209-BD99-3F97AD39FE4D}|DDD.Domain\\Domain.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\ddd.domain\\reciclanewcontext\\bairro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E95C00A9-348E-4209-BD99-3F97AD39FE4D}|DDD.Domain\\Domain.csproj|solutionrelative:ddd.domain\\reciclanewcontext\\bairro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|d:\\projeto\\reciclanew\\ddd.infra.sqlserver\\interfaces\\icidaderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|solutionrelative:ddd.infra.sqlserver\\interfaces\\icidaderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\consoleapp1\\applicationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|solutionrelative:consoleapp1\\applicationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|d:\\projeto\\reciclanew\\domainservice\\service\\cidadeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\service\\cidadeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\domainservice\\interface\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\interface\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|d:\\projeto\\reciclanew\\domainservice\\interface\\icidadeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\interface\\icidadeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E95C00A9-348E-4209-BD99-3F97AD39FE4D}|DDD.Domain\\Domain.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\ddd.domain\\reciclanewcontext\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|d:\\projeto\\reciclanew\\consoleapp1\\application\\cidadeapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|solutionrelative:consoleapp1\\application\\cidadeapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95C00A9-348E-4209-BD99-3F97AD39FE4D}|DDD.Domain\\Domain.csproj|d:\\projeto\\reciclanew\\ddd.domain\\reciclanewcontext\\coleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95C00A9-348E-4209-BD99-3F97AD39FE4D}|DDD.Domain\\Domain.csproj|solutionrelative:ddd.domain\\reciclanewcontext\\coleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95C00A9-348E-4209-BD99-3F97AD39FE4D}|DDD.Domain\\Domain.csproj|d:\\projeto\\reciclanew\\ddd.domain\\reciclanewcontext\\cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95C00A9-348E-4209-BD99-3F97AD39FE4D}|DDD.Domain\\Domain.csproj|solutionrelative:ddd.domain\\reciclanewcontext\\cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|d:\\projeto\\reciclanew\\domainservice\\interface\\ibairroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\interface\\ibairroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56682E2-FF03-4CD2-9EB9-B7A5231D4DB7}|DDD.Application.Api\\Application.csproj|d:\\projeto\\reciclanew\\ddd.application.api\\controllers\\cidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56682E2-FF03-4CD2-9EB9-B7A5231D4DB7}|DDD.Application.Api\\Application.csproj|solutionrelative:ddd.application.api\\controllers\\cidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95C00A9-348E-4209-BD99-3F97AD39FE4D}|DDD.Domain\\Domain.csproj|d:\\projeto\\reciclanew\\ddd.domain\\reciclanewcontext\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E95C00A9-348E-4209-BD99-3F97AD39FE4D}|DDD.Domain\\Domain.csproj|solutionrelative:ddd.domain\\reciclanewcontext\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C56682E2-FF03-4CD2-9EB9-B7A5231D4DB7}|DDD.Application.Api\\Application.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\ddd.application.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|d:\\projeto\\reciclanew\\ddd.infra.sqlserver\\sqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|solutionrelative:ddd.infra.sqlserver\\sqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|d:\\projeto\\reciclanew\\consoleapp1\\interface\\icoletaapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|solutionrelative:consoleapp1\\interface\\icoletaapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56682E2-FF03-4CD2-9EB9-B7A5231D4DB7}|DDD.Application.Api\\Application.csproj|d:\\projeto\\reciclanew\\ddd.application.api\\controllers\\coletacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56682E2-FF03-4CD2-9EB9-B7A5231D4DB7}|DDD.Application.Api\\Application.csproj|solutionrelative:ddd.application.api\\controllers\\coletacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|d:\\projeto\\reciclanew\\ddd.infra.sqlserver\\repositories\\usuariorepositorysqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|solutionrelative:ddd.infra.sqlserver\\repositories\\usuariorepositorysqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56682E2-FF03-4CD2-9EB9-B7A5231D4DB7}|DDD.Application.Api\\Application.csproj|d:\\projeto\\reciclanew\\ddd.application.api\\controllers\\veiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C56682E2-FF03-4CD2-9EB9-B7A5231D4DB7}|DDD.Application.Api\\Application.csproj|solutionrelative:ddd.application.api\\controllers\\veiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|d:\\projeto\\reciclanew\\consoleapp1\\application\\veiculoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|solutionrelative:consoleapp1\\application\\veiculoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|d:\\projeto\\reciclanew\\domainservice\\interface\\iveiculoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\interface\\iveiculoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|d:\\projeto\\reciclanew\\consoleapp1\\application\\estadoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|solutionrelative:consoleapp1\\application\\estadoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|d:\\projeto\\reciclanew\\consoleapp1\\application\\usuarioapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|solutionrelative:consoleapp1\\application\\usuarioapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|d:\\projeto\\reciclanew\\consoleapp1\\application\\bairroapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|solutionrelative:consoleapp1\\application\\bairroapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95C00A9-348E-4209-BD99-3F97AD39FE4D}|DDD.Domain\\Domain.csproj|d:\\projeto\\reciclanew\\ddd.domain\\reciclanewcontext\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95C00A9-348E-4209-BD99-3F97AD39FE4D}|DDD.Domain\\Domain.csproj|solutionrelative:ddd.domain\\reciclanewcontext\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95C00A9-348E-4209-BD99-3F97AD39FE4D}|DDD.Domain\\Domain.csproj|d:\\projeto\\reciclanew\\ddd.domain\\reciclanewcontext\\bairro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95C00A9-348E-4209-BD99-3F97AD39FE4D}|DDD.Domain\\Domain.csproj|solutionrelative:ddd.domain\\reciclanewcontext\\bairro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|d:\\projeto\\reciclanew\\consoleapp1\\applicationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|solutionrelative:consoleapp1\\applicationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|d:\\projeto\\reciclanew\\consoleapp1\\interface\\ibairroapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|solutionrelative:consoleapp1\\interface\\ibairroapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|d:\\projeto\\reciclanew\\consoleapp1\\application\\coletaapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|solutionrelative:consoleapp1\\application\\coletaapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|d:\\projeto\\reciclanew\\consoleapp1\\application\\itemcoletadoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|solutionrelative:consoleapp1\\application\\itemcoletadoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|d:\\projeto\\reciclanew\\consoleapp1\\application\\tipodecrimeapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|solutionrelative:consoleapp1\\application\\tipodecrimeapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|d:\\projeto\\reciclanew\\domainservice\\interface\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\interface\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56682E2-FF03-4CD2-9EB9-B7A5231D4DB7}|DDD.Application.Api\\Application.csproj|d:\\projeto\\reciclanew\\ddd.application.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C56682E2-FF03-4CD2-9EB9-B7A5231D4DB7}|DDD.Application.Api\\Application.csproj|solutionrelative:ddd.application.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -135,51 +215,43 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/UniversidadeDb/True/SqlTable/dbo.Estado.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C56682E2-FF03-4CD2-9EB9-B7A5231D4DB7}|DDD.Application.Api\\Application.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\ddd.application.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C56682E2-FF03-4CD2-9EB9-B7A5231D4DB7}|DDD.Application.Api\\Application.csproj|d:\\projeto\\reciclanew\\ddd.application.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C56682E2-FF03-4CD2-9EB9-B7A5231D4DB7}|DDD.Application.Api\\Application.csproj|solutionrelative:ddd.application.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\domainservice\\service\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|d:\\projeto\\reciclanew\\domainservice\\service\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D77E361-A4AC-4F96-B6B2-BF29C362E71F}|DomainService\\DomainService.csproj|solutionrelative:domainservice\\service\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E95C00A9-348E-4209-BD99-3F97AD39FE4D}|DDD.Domain\\Domain.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\ddd.domain\\reciclanewcontext\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E95C00A9-348E-4209-BD99-3F97AD39FE4D}|DDD.Domain\\Domain.csproj|d:\\projeto\\reciclanew\\ddd.domain\\reciclanewcontext\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E95C00A9-348E-4209-BD99-3F97AD39FE4D}|DDD.Domain\\Domain.csproj|solutionrelative:ddd.domain\\reciclanewcontext\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\consoleapp1\\interface\\iusuarioapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|d:\\projeto\\reciclanew\\consoleapp1\\interface\\iusuarioapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|solutionrelative:consoleapp1\\interface\\iusuarioapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C56682E2-FF03-4CD2-9EB9-B7A5231D4DB7}|DDD.Application.Api\\Application.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\ddd.application.api\\controllers\\tipodecrimecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C56682E2-FF03-4CD2-9EB9-B7A5231D4DB7}|DDD.Application.Api\\Application.csproj|d:\\projeto\\reciclanew\\ddd.application.api\\controllers\\tipodecrimecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C56682E2-FF03-4CD2-9EB9-B7A5231D4DB7}|DDD.Application.Api\\Application.csproj|solutionrelative:ddd.application.api\\controllers\\tipodecrimecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C56682E2-FF03-4CD2-9EB9-B7A5231D4DB7}|DDD.Application.Api\\Application.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\ddd.application.api\\controllers\\denunciascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C56682E2-FF03-4CD2-9EB9-B7A5231D4DB7}|DDD.Application.Api\\Application.csproj|d:\\projeto\\reciclanew\\ddd.application.api\\controllers\\denunciascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C56682E2-FF03-4CD2-9EB9-B7A5231D4DB7}|DDD.Application.Api\\Application.csproj|solutionrelative:ddd.application.api\\controllers\\denunciascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\ddd.infra.sqlserver\\repositories\\usuariorepositorysqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|solutionrelative:ddd.infra.sqlserver\\repositories\\usuariorepositorysqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C56682E2-FF03-4CD2-9EB9-B7A5231D4DB7}|DDD.Application.Api\\Application.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\ddd.application.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C56682E2-FF03-4CD2-9EB9-B7A5231D4DB7}|DDD.Application.Api\\Application.csproj|d:\\projeto\\reciclanew\\ddd.application.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C56682E2-FF03-4CD2-9EB9-B7A5231D4DB7}|DDD.Application.Api\\Application.csproj|solutionrelative:ddd.application.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\ddd.infra.sqlserver\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|d:\\projeto\\reciclanew\\ddd.infra.sqlserver\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|solutionrelative:ddd.infra.sqlserver\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E95C00A9-348E-4209-BD99-3F97AD39FE4D}|DDD.Domain\\Domain.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\ddd.domain\\reciclanewcontext\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E95C00A9-348E-4209-BD99-3F97AD39FE4D}|DDD.Domain\\Domain.csproj|d:\\projeto\\reciclanew\\ddd.domain\\reciclanewcontext\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E95C00A9-348E-4209-BD99-3F97AD39FE4D}|DDD.Domain\\Domain.csproj|solutionrelative:ddd.domain\\reciclanewcontext\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\consoleapp1\\application\\usuarioapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A94F178E-A4DE-4E59-9305-64C5C15F91C0}|ConsoleApp1\\ApplicationService.csproj|solutionrelative:consoleapp1\\application\\usuarioapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|c:\\projects\\reciclanew\\plataformauniversidadeddd\\ddd.infra.sqlserver\\migrations\\20231124155430_mig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|d:\\projeto\\reciclanew\\ddd.infra.sqlserver\\migrations\\20231124155430_mig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24CF457D-22E0-4C94-83C6-BDA05EB6402B}|DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj|solutionrelative:ddd.infra.sqlserver\\migrations\\20231124155430_mig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -189,101 +261,578 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 137,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BairroApplication.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\ConsoleApp1\\Application\\BairroApplication.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Application\\BairroApplication.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\ConsoleApp1\\Application\\BairroApplication.cs",
-              "RelativeToolTip": "ConsoleApp1\\Application\\BairroApplication.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "EstadoService.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DomainService\\Service\\EstadoService.cs",
+              "RelativeDocumentMoniker": "DomainService\\Service\\EstadoService.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DomainService\\Service\\EstadoService.cs",
+              "RelativeToolTip": "DomainService\\Service\\EstadoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T01:14:27.26Z",
+              "WhenOpened": "2024-08-22T19:11:47.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IItemColetadoRepository.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\Interfaces\\IItemColetadoRepository.cs",
+              "RelativeDocumentMoniker": "DDD.Infra.SQLServer\\Interfaces\\IItemColetadoRepository.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\Interfaces\\IItemColetadoRepository.cs",
+              "RelativeToolTip": "DDD.Infra.SQLServer\\Interfaces\\IItemColetadoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T00:00:16.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IItemColetadoService.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DomainService\\Interface\\IItemColetadoService.cs",
+              "RelativeDocumentMoniker": "DomainService\\Interface\\IItemColetadoService.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DomainService\\Interface\\IItemColetadoService.cs",
+              "RelativeToolTip": "DomainService\\Interface\\IItemColetadoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T23:51:10.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEstadoService.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DomainService\\Interface\\IEstadoService.cs",
+              "RelativeDocumentMoniker": "DomainService\\Interface\\IEstadoService.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DomainService\\Interface\\IEstadoService.cs",
+              "RelativeToolTip": "DomainService\\Interface\\IEstadoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T01:01:27.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EstadoRepositorySqlServer.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\Repositories\\EstadoRepositorySqlServer.cs",
+              "RelativeDocumentMoniker": "DDD.Infra.SQLServer\\Repositories\\EstadoRepositorySqlServer.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\Repositories\\EstadoRepositorySqlServer.cs",
+              "RelativeToolTip": "DDD.Infra.SQLServer\\Repositories\\EstadoRepositorySqlServer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T00:51:46.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BairroRepositorySqlServer.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\Repositories\\BairroRepositorySqlServer.cs",
+              "RelativeDocumentMoniker": "DDD.Infra.SQLServer\\Repositories\\BairroRepositorySqlServer.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\Repositories\\BairroRepositorySqlServer.cs",
+              "RelativeToolTip": "DDD.Infra.SQLServer\\Repositories\\BairroRepositorySqlServer.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T00:40:18.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEstadoRepository.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\Interfaces\\IEstadoRepository.cs",
+              "RelativeDocumentMoniker": "DDD.Infra.SQLServer\\Interfaces\\IEstadoRepository.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\Interfaces\\IEstadoRepository.cs",
+              "RelativeToolTip": "DDD.Infra.SQLServer\\Interfaces\\IEstadoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T00:45:40.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VeiculoService.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DomainService\\Service\\VeiculoService.cs",
+              "RelativeDocumentMoniker": "DomainService\\Service\\VeiculoService.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DomainService\\Service\\VeiculoService.cs",
+              "RelativeToolTip": "DomainService\\Service\\VeiculoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:36:21.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CidadeRepositorySqlServer.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\Repositories\\CidadeRepositorySqlServer.cs",
+              "RelativeDocumentMoniker": "DDD.Infra.SQLServer\\Repositories\\CidadeRepositorySqlServer.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\Repositories\\CidadeRepositorySqlServer.cs",
+              "RelativeToolTip": "DDD.Infra.SQLServer\\Repositories\\CidadeRepositorySqlServer.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T00:42:23.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VeiculoRepositorySqlServer.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\Repositories\\VeiculoRepositorySqlServer.cs",
+              "RelativeDocumentMoniker": "DDD.Infra.SQLServer\\Repositories\\VeiculoRepositorySqlServer.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\Repositories\\VeiculoRepositorySqlServer.cs",
+              "RelativeToolTip": "DDD.Infra.SQLServer\\Repositories\\VeiculoRepositorySqlServer.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwDQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:25:41.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IVeiculoRepository.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\Interfaces\\IVeiculoRepository.cs",
+              "RelativeDocumentMoniker": "DDD.Infra.SQLServer\\Interfaces\\IVeiculoRepository.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\Interfaces\\IVeiculoRepository.cs",
+              "RelativeToolTip": "DDD.Infra.SQLServer\\Interfaces\\IVeiculoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:26:14.687Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IBairroApplication.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\ConsoleApp1\\Interface\\IBairroApplication.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Interface\\IBairroApplication.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\ConsoleApp1\\Interface\\IBairroApplication.cs",
-              "RelativeToolTip": "ConsoleApp1\\Interface\\IBairroApplication.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Title": "IVeiculoApplication.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\ConsoleApp1\\Interface\\IVeiculoApplication.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Interface\\IVeiculoApplication.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\ConsoleApp1\\Interface\\IVeiculoApplication.cs",
+              "RelativeToolTip": "ConsoleApp1\\Interface\\IVeiculoApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T01:06:13.654Z"
+              "WhenOpened": "2024-08-22T11:31:20.187Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ItemColetadoApplication.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\ConsoleApp1\\Application\\ItemColetadoApplication.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Application\\ItemColetadoApplication.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\ConsoleApp1\\Application\\ItemColetadoApplication.cs",
-              "RelativeToolTip": "ConsoleApp1\\Application\\ItemColetadoApplication.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAB4AAAAmAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "ColetaRepositorySqlServer.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\Repositories\\ColetaRepositorySqlServer.cs",
+              "RelativeDocumentMoniker": "DDD.Infra.SQLServer\\Repositories\\ColetaRepositorySqlServer.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\Repositories\\ColetaRepositorySqlServer.cs",
+              "RelativeToolTip": "DDD.Infra.SQLServer\\Repositories\\ColetaRepositorySqlServer.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwE0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T01:02:52.21Z"
+              "WhenOpened": "2024-08-21T00:34:26.805Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ColetaApplication.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\ConsoleApp1\\Application\\ColetaApplication.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Application\\ColetaApplication.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\ConsoleApp1\\Application\\ColetaApplication.cs",
-              "RelativeToolTip": "ConsoleApp1\\Application\\ColetaApplication.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAACkAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "ItemColetado.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DDD.Domain\\ReciclaNewContext\\ItemColetado.cs",
+              "RelativeDocumentMoniker": "DDD.Domain\\ReciclaNewContext\\ItemColetado.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DDD.Domain\\ReciclaNewContext\\ItemColetado.cs",
+              "RelativeToolTip": "DDD.Domain\\ReciclaNewContext\\ItemColetado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T00:57:42.069Z"
+              "WhenOpened": "2024-08-20T23:50:02.203Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ICidadeService.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DomainService\\Interface\\ICidadeService.cs",
-              "RelativeDocumentMoniker": "DomainService\\Interface\\ICidadeService.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DomainService\\Interface\\ICidadeService.cs",
-              "RelativeToolTip": "DomainService\\Interface\\ICidadeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "ItemColetadoService.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DomainService\\Service\\ItemColetadoService.cs",
+              "RelativeDocumentMoniker": "DomainService\\Service\\ItemColetadoService.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DomainService\\Service\\ItemColetadoService.cs",
+              "RelativeToolTip": "DomainService\\Service\\ItemColetadoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T23:55:13.541Z"
+              "WhenOpened": "2024-08-22T18:00:50.033Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IBairroService.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DomainService\\Interface\\IBairroService.cs",
-              "RelativeDocumentMoniker": "DomainService\\Interface\\IBairroService.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DomainService\\Interface\\IBairroService.cs",
-              "RelativeToolTip": "DomainService\\Interface\\IBairroService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "ItemColetadoRepositorySqlServer.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\Repositories\\ItemColetadoRepositorySqlServer.cs",
+              "RelativeDocumentMoniker": "DDD.Infra.SQLServer\\Repositories\\ItemColetadoRepositorySqlServer.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\Repositories\\ItemColetadoRepositorySqlServer.cs",
+              "RelativeToolTip": "DDD.Infra.SQLServer\\Repositories\\ItemColetadoRepositorySqlServer.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowEIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T00:36:42.326Z"
+              "WhenOpened": "2024-08-21T00:47:57.175Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
+              "Title": "ColetaService.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DomainService\\Service\\ColetaService.cs",
+              "RelativeDocumentMoniker": "DomainService\\Service\\ColetaService.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DomainService\\Service\\ColetaService.cs",
+              "RelativeToolTip": "DomainService\\Service\\ColetaService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T17:56:27.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IColetaRepository.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\Interfaces\\IColetaRepository.cs",
+              "RelativeDocumentMoniker": "DDD.Infra.SQLServer\\Interfaces\\IColetaRepository.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\Interfaces\\IColetaRepository.cs",
+              "RelativeToolTip": "DDD.Infra.SQLServer\\Interfaces\\IColetaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T00:02:02.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BairroService.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DomainService\\Service\\BairroService.cs",
+              "RelativeDocumentMoniker": "DomainService\\Service\\BairroService.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DomainService\\Service\\BairroService.cs",
+              "RelativeToolTip": "DomainService\\Service\\BairroService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T16:39:48.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "IItemColetadoApplication.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\ConsoleApp1\\Interface\\IItemColetadoApplication.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\ConsoleApp1\\Interface\\IItemColetadoApplication.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Interface\\IItemColetadoApplication.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\ConsoleApp1\\Interface\\IItemColetadoApplication.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\ConsoleApp1\\Interface\\IItemColetadoApplication.cs",
               "RelativeToolTip": "ConsoleApp1\\Interface\\IItemColetadoApplication.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T00:53:45.044Z"
+              "WhenOpened": "2024-08-21T00:53:45.044Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 21,
+              "Title": "IBairroRepository.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\Interfaces\\IBairroRepository.cs",
+              "RelativeDocumentMoniker": "DDD.Infra.SQLServer\\Interfaces\\IBairroRepository.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\Interfaces\\IBairroRepository.cs",
+              "RelativeToolTip": "DDD.Infra.SQLServer\\Interfaces\\IBairroRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T00:34:14.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ICidadeRepository.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\Interfaces\\ICidadeRepository.cs",
+              "RelativeDocumentMoniker": "DDD.Infra.SQLServer\\Interfaces\\ICidadeRepository.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\Interfaces\\ICidadeRepository.cs",
+              "RelativeToolTip": "DDD.Infra.SQLServer\\Interfaces\\ICidadeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:39:14.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CidadeService.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DomainService\\Service\\CidadeService.cs",
+              "RelativeDocumentMoniker": "DomainService\\Service\\CidadeService.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DomainService\\Service\\CidadeService.cs",
+              "RelativeToolTip": "DomainService\\Service\\CidadeService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:38:49.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ICidadeService.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DomainService\\Interface\\ICidadeService.cs",
+              "RelativeDocumentMoniker": "DomainService\\Interface\\ICidadeService.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DomainService\\Interface\\ICidadeService.cs",
+              "RelativeToolTip": "DomainService\\Interface\\ICidadeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T23:55:13.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CidadeApplication.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\ConsoleApp1\\Application\\CidadeApplication.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Application\\CidadeApplication.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\ConsoleApp1\\Application\\CidadeApplication.cs",
+              "RelativeToolTip": "ConsoleApp1\\Application\\CidadeApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:33:10.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Coleta.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DDD.Domain\\ReciclaNewContext\\Coleta.cs",
+              "RelativeDocumentMoniker": "DDD.Domain\\ReciclaNewContext\\Coleta.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DDD.Domain\\ReciclaNewContext\\Coleta.cs",
+              "RelativeToolTip": "DDD.Domain\\ReciclaNewContext\\Coleta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T23:39:39.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Cidade.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DDD.Domain\\ReciclaNewContext\\Cidade.cs",
+              "RelativeDocumentMoniker": "DDD.Domain\\ReciclaNewContext\\Cidade.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DDD.Domain\\ReciclaNewContext\\Cidade.cs",
+              "RelativeToolTip": "DDD.Domain\\ReciclaNewContext\\Cidade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:59:29.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IColetaService.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DomainService\\Interface\\IColetaService.cs",
+              "RelativeDocumentMoniker": "DomainService\\Interface\\IColetaService.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DomainService\\Interface\\IColetaService.cs",
+              "RelativeToolTip": "DomainService\\Interface\\IColetaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T23:55:53.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IBairroService.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DomainService\\Interface\\IBairroService.cs",
+              "RelativeDocumentMoniker": "DomainService\\Interface\\IBairroService.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DomainService\\Interface\\IBairroService.cs",
+              "RelativeToolTip": "DomainService\\Interface\\IBairroService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T00:36:42.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CidadeController.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DDD.Application.Api\\Controllers\\CidadeController.cs",
+              "RelativeDocumentMoniker": "DDD.Application.Api\\Controllers\\CidadeController.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DDD.Application.Api\\Controllers\\CidadeController.cs",
+              "RelativeToolTip": "DDD.Application.Api\\Controllers\\CidadeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:29:30.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Estado.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DDD.Domain\\ReciclaNewContext\\Estado.cs",
+              "RelativeDocumentMoniker": "DDD.Domain\\ReciclaNewContext\\Estado.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DDD.Domain\\ReciclaNewContext\\Estado.cs",
+              "RelativeToolTip": "DDD.Domain\\ReciclaNewContext\\Estado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T23:48:51.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SqlContext.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\SqlContext.cs",
+              "RelativeDocumentMoniker": "DDD.Infra.SQLServer\\SqlContext.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\SqlContext.cs",
+              "RelativeToolTip": "DDD.Infra.SQLServer\\SqlContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T00:34:54.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IColetaApplication.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\ConsoleApp1\\Interface\\IColetaApplication.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Interface\\IColetaApplication.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\ConsoleApp1\\Interface\\IColetaApplication.cs",
+              "RelativeToolTip": "ConsoleApp1\\Interface\\IColetaApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T00:52:10.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UsuarioRepositorySqlServer.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\Repositories\\UsuarioRepositorySqlServer.cs",
+              "RelativeDocumentMoniker": "DDD.Infra.SQLServer\\Repositories\\UsuarioRepositorySqlServer.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\Repositories\\UsuarioRepositorySqlServer.cs",
+              "RelativeToolTip": "DDD.Infra.SQLServer\\Repositories\\UsuarioRepositorySqlServer.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAEwFgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T12:24:16.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "VeiculoApplication.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\ConsoleApp1\\Application\\VeiculoApplication.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Application\\VeiculoApplication.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\ConsoleApp1\\Application\\VeiculoApplication.cs",
+              "RelativeToolTip": "ConsoleApp1\\Application\\VeiculoApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:33:12.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IVeiculoService.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DomainService\\Interface\\IVeiculoService.cs",
+              "RelativeDocumentMoniker": "DomainService\\Interface\\IVeiculoService.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DomainService\\Interface\\IVeiculoService.cs",
+              "RelativeToolTip": "DomainService\\Interface\\IVeiculoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:34:26.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "VeiculoController.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DDD.Application.Api\\Controllers\\VeiculoController.cs",
+              "RelativeDocumentMoniker": "DDD.Application.Api\\Controllers\\VeiculoController.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DDD.Application.Api\\Controllers\\VeiculoController.cs",
+              "RelativeToolTip": "DDD.Application.Api\\Controllers\\VeiculoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:45:11.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ColetaController.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DDD.Application.Api\\Controllers\\ColetaController.cs",
+              "RelativeDocumentMoniker": "DDD.Application.Api\\Controllers\\ColetaController.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DDD.Application.Api\\Controllers\\ColetaController.cs",
+              "RelativeToolTip": "DDD.Application.Api\\Controllers\\ColetaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T12:24:15.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EstadoApplication.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\ConsoleApp1\\Application\\EstadoApplication.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Application\\EstadoApplication.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\ConsoleApp1\\Application\\EstadoApplication.cs",
+              "RelativeToolTip": "ConsoleApp1\\Application\\EstadoApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:34:06.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BairroApplication.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\ConsoleApp1\\Application\\BairroApplication.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Application\\BairroApplication.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\ConsoleApp1\\Application\\BairroApplication.cs",
+              "RelativeToolTip": "ConsoleApp1\\Application\\BairroApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T01:14:27.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DDD.Domain\\ReciclaNewContext\\Veiculo.cs",
+              "RelativeDocumentMoniker": "DDD.Domain\\ReciclaNewContext\\Veiculo.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DDD.Domain\\ReciclaNewContext\\Veiculo.cs",
+              "RelativeToolTip": "DDD.Domain\\ReciclaNewContext\\Veiculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:21:41.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ApplicationService.csproj",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\ConsoleApp1\\ApplicationService.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ApplicationService.csproj",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\ConsoleApp1\\ApplicationService.csproj",
+              "RelativeToolTip": "ConsoleApp1\\ApplicationService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-21T00:34:06.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UsuarioApplication.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\ConsoleApp1\\Application\\UsuarioApplication.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Application\\UsuarioApplication.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\ConsoleApp1\\Application\\UsuarioApplication.cs",
+              "RelativeToolTip": "ConsoleApp1\\Application\\UsuarioApplication.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T12:24:16.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
               "Title": "TipoDeCrimeApplication.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\ConsoleApp1\\Application\\TipoDeCrimeApplication.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\ConsoleApp1\\Application\\TipoDeCrimeApplication.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Application\\TipoDeCrimeApplication.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\ConsoleApp1\\Application\\TipoDeCrimeApplication.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\ConsoleApp1\\Application\\TipoDeCrimeApplication.cs",
               "RelativeToolTip": "ConsoleApp1\\Application\\TipoDeCrimeApplication.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -291,251 +840,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ItemColetado.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Domain\\ReciclaNewContext\\ItemColetado.cs",
-              "RelativeDocumentMoniker": "DDD.Domain\\ReciclaNewContext\\ItemColetado.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Domain\\ReciclaNewContext\\ItemColetado.cs",
-              "RelativeToolTip": "DDD.Domain\\ReciclaNewContext\\ItemColetado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 45,
+              "Title": "ColetaApplication.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\ConsoleApp1\\Application\\ColetaApplication.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Application\\ColetaApplication.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\ConsoleApp1\\Application\\ColetaApplication.cs",
+              "RelativeToolTip": "ConsoleApp1\\Application\\ColetaApplication.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T23:50:02.203Z"
+              "WhenOpened": "2024-08-21T00:57:42.069Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IItemColetadoService.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DomainService\\Interface\\IItemColetadoService.cs",
-              "RelativeDocumentMoniker": "DomainService\\Interface\\IItemColetadoService.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DomainService\\Interface\\IItemColetadoService.cs",
-              "RelativeToolTip": "DomainService\\Interface\\IItemColetadoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T23:51:10.659Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ColetaController.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Application.Api\\Controllers\\ColetaController.cs",
-              "RelativeDocumentMoniker": "DDD.Application.Api\\Controllers\\ColetaController.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Application.Api\\Controllers\\ColetaController.cs",
-              "RelativeToolTip": "DDD.Application.Api\\Controllers\\ColetaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T12:24:15.958Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IEstadoService.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DomainService\\Interface\\IEstadoService.cs",
-              "RelativeDocumentMoniker": "DomainService\\Interface\\IEstadoService.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DomainService\\Interface\\IEstadoService.cs",
-              "RelativeToolTip": "DomainService\\Interface\\IEstadoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T01:01:27.263Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IColetaApplication.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\ConsoleApp1\\Interface\\IColetaApplication.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Interface\\IColetaApplication.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\ConsoleApp1\\Interface\\IColetaApplication.cs",
-              "RelativeToolTip": "ConsoleApp1\\Interface\\IColetaApplication.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T00:52:10.107Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IColetaService.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DomainService\\Interface\\IColetaService.cs",
-              "RelativeDocumentMoniker": "DomainService\\Interface\\IColetaService.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DomainService\\Interface\\IColetaService.cs",
-              "RelativeToolTip": "DomainService\\Interface\\IColetaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T23:55:53.58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ItemColetadoRepositorySqlServer.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\Repositories\\ItemColetadoRepositorySqlServer.cs",
-              "RelativeDocumentMoniker": "DDD.Infra.SQLServer\\Repositories\\ItemColetadoRepositorySqlServer.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\Repositories\\ItemColetadoRepositorySqlServer.cs",
-              "RelativeToolTip": "DDD.Infra.SQLServer\\Repositories\\ItemColetadoRepositorySqlServer.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAAEYAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T00:47:57.175Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Coleta.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Domain\\ReciclaNewContext\\Coleta.cs",
-              "RelativeDocumentMoniker": "DDD.Domain\\ReciclaNewContext\\Coleta.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Domain\\ReciclaNewContext\\Coleta.cs",
-              "RelativeToolTip": "DDD.Domain\\ReciclaNewContext\\Coleta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T23:39:39.53Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "EstadoRepositorySqlServer.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\Repositories\\EstadoRepositorySqlServer.cs",
-              "RelativeDocumentMoniker": "DDD.Infra.SQLServer\\Repositories\\EstadoRepositorySqlServer.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\Repositories\\EstadoRepositorySqlServer.cs",
-              "RelativeToolTip": "DDD.Infra.SQLServer\\Repositories\\EstadoRepositorySqlServer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T00:51:46.161Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "CidadeRepositorySqlServer.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\Repositories\\CidadeRepositorySqlServer.cs",
-              "RelativeDocumentMoniker": "DDD.Infra.SQLServer\\Repositories\\CidadeRepositorySqlServer.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\Repositories\\CidadeRepositorySqlServer.cs",
-              "RelativeToolTip": "DDD.Infra.SQLServer\\Repositories\\CidadeRepositorySqlServer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T00:42:23.982Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IItemColetadoRepository.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\Interfaces\\IItemColetadoRepository.cs",
-              "RelativeDocumentMoniker": "DDD.Infra.SQLServer\\Interfaces\\IItemColetadoRepository.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\Interfaces\\IItemColetadoRepository.cs",
-              "RelativeToolTip": "DDD.Infra.SQLServer\\Interfaces\\IItemColetadoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T00:00:16.997Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "BairroRepositorySqlServer.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\Repositories\\BairroRepositorySqlServer.cs",
-              "RelativeDocumentMoniker": "DDD.Infra.SQLServer\\Repositories\\BairroRepositorySqlServer.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\Repositories\\BairroRepositorySqlServer.cs",
-              "RelativeToolTip": "DDD.Infra.SQLServer\\Repositories\\BairroRepositorySqlServer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T00:40:18.499Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ColetaRepositorySqlServer.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\Repositories\\ColetaRepositorySqlServer.cs",
-              "RelativeDocumentMoniker": "DDD.Infra.SQLServer\\Repositories\\ColetaRepositorySqlServer.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\Repositories\\ColetaRepositorySqlServer.cs",
-              "RelativeToolTip": "DDD.Infra.SQLServer\\Repositories\\ColetaRepositorySqlServer.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T00:34:26.805Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "SqlContext.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\SqlContext.cs",
-              "RelativeDocumentMoniker": "DDD.Infra.SQLServer\\SqlContext.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\SqlContext.cs",
-              "RelativeToolTip": "DDD.Infra.SQLServer\\SqlContext.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAuwCIAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T00:34:54.959Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "IEstadoRepository.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\Interfaces\\IEstadoRepository.cs",
-              "RelativeDocumentMoniker": "DDD.Infra.SQLServer\\Interfaces\\IEstadoRepository.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\Interfaces\\IEstadoRepository.cs",
-              "RelativeToolTip": "DDD.Infra.SQLServer\\Interfaces\\IEstadoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T00:45:40.589Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "IBairroRepository.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\Interfaces\\IBairroRepository.cs",
-              "RelativeDocumentMoniker": "DDD.Infra.SQLServer\\Interfaces\\IBairroRepository.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\Interfaces\\IBairroRepository.cs",
-              "RelativeToolTip": "DDD.Infra.SQLServer\\Interfaces\\IBairroRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T00:34:14.109Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "IColetaRepository.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\Interfaces\\IColetaRepository.cs",
-              "RelativeDocumentMoniker": "DDD.Infra.SQLServer\\Interfaces\\IColetaRepository.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\Interfaces\\IColetaRepository.cs",
-              "RelativeToolTip": "DDD.Infra.SQLServer\\Interfaces\\IColetaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T00:02:02.77Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ApplicationService.csproj",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\ConsoleApp1\\ApplicationService.csproj",
-              "RelativeDocumentMoniker": "ConsoleApp1\\ApplicationService.csproj",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\ConsoleApp1\\ApplicationService.csproj",
-              "RelativeToolTip": "ConsoleApp1\\ApplicationService.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-21T00:34:06.482Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 42,
               "Title": "Bairro.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Domain\\ReciclaNewContext\\Bairro.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DDD.Domain\\ReciclaNewContext\\Bairro.cs",
               "RelativeDocumentMoniker": "DDD.Domain\\ReciclaNewContext\\Bairro.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Domain\\ReciclaNewContext\\Bairro.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DDD.Domain\\ReciclaNewContext\\Bairro.cs",
               "RelativeToolTip": "DDD.Domain\\ReciclaNewContext\\Bairro.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBEAAAAuAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-20T23:44:05.957Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Estado.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Domain\\ReciclaNewContext\\Estado.cs",
-              "RelativeDocumentMoniker": "DDD.Domain\\ReciclaNewContext\\Estado.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Domain\\ReciclaNewContext\\Estado.cs",
-              "RelativeToolTip": "DDD.Domain\\ReciclaNewContext\\Estado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 46,
+              "Title": "ItemColetadoApplication.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\ConsoleApp1\\Application\\ItemColetadoApplication.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Application\\ItemColetadoApplication.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\ConsoleApp1\\Application\\ItemColetadoApplication.cs",
+              "RelativeToolTip": "ConsoleApp1\\Application\\ItemColetadoApplication.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAB4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T23:48:51.835Z"
+              "WhenOpened": "2024-08-21T01:02:52.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 44,
+              "Title": "IBairroApplication.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\ConsoleApp1\\Interface\\IBairroApplication.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Interface\\IBairroApplication.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\ConsoleApp1\\Interface\\IBairroApplication.cs",
+              "RelativeToolTip": "ConsoleApp1\\Interface\\IBairroApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T01:06:13.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
               "Title": "IUsuarioService.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DomainService\\Interface\\IUsuarioService.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DomainService\\Interface\\IUsuarioService.cs",
               "RelativeDocumentMoniker": "DomainService\\Interface\\IUsuarioService.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DomainService\\Interface\\IUsuarioService.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DomainService\\Interface\\IUsuarioService.cs",
               "RelativeToolTip": "DomainService\\Interface\\IUsuarioService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -543,18 +900,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 51,
               "Title": "dbo.TipoDeCrime.data.sql",
               "DocumentMoniker": "C:\\Users\\ti.estagiario\\AppData\\Local\\Temp\\dbo.TipoDeCrime.data.sql",
-              "RelativeDocumentMoniker": "..\\..\\..\\Users\\ti.estagiario\\AppData\\Local\\Temp\\dbo.TipoDeCrime.data.sql",
               "ToolTip": "C:\\Users\\ti.estagiario\\AppData\\Local\\Temp\\dbo.TipoDeCrime.data.sql",
-              "RelativeToolTip": "..\\..\\..\\Users\\ti.estagiario\\AppData\\Local\\Temp\\dbo.TipoDeCrime.data.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2023-11-24T15:59:54.254Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 50,
               "Title": "dbo.TipoDeCrime.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/UniversidadeDb/True/SqlTable/dbo.TipoDeCrime.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/UniversidadeDb/True/SqlTable/dbo.TipoDeCrime.sql",
@@ -563,18 +918,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 52,
               "Title": "dbo.Estado.data.sql",
               "DocumentMoniker": "C:\\Users\\ti.estagiario\\AppData\\Local\\Temp\\dbo.Estado.data.sql",
-              "RelativeDocumentMoniker": "..\\..\\..\\Users\\ti.estagiario\\AppData\\Local\\Temp\\dbo.Estado.data.sql",
               "ToolTip": "C:\\Users\\ti.estagiario\\AppData\\Local\\Temp\\dbo.Estado.data.sql",
-              "RelativeToolTip": "..\\..\\..\\Users\\ti.estagiario\\AppData\\Local\\Temp\\dbo.Estado.data.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2023-11-24T15:56:20.972Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 53,
               "Title": "dbo.Estado.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/UniversidadeDb/True/SqlTable/dbo.Estado.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/UniversidadeDb/True/SqlTable/dbo.Estado.sql",
@@ -583,11 +936,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 63,
               "Title": "20231124155430_Mig.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\Migrations\\20231124155430_Mig.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\Migrations\\20231124155430_Mig.cs",
               "RelativeDocumentMoniker": "DDD.Infra.SQLServer\\Migrations\\20231124155430_Mig.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\Migrations\\20231124155430_Mig.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\Migrations\\20231124155430_Mig.cs",
               "RelativeToolTip": "DDD.Infra.SQLServer\\Migrations\\20231124155430_Mig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -595,11 +948,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 56,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Domain\\ReciclaNewContext\\Usuario.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DDD.Domain\\ReciclaNewContext\\Usuario.cs",
               "RelativeDocumentMoniker": "DDD.Domain\\ReciclaNewContext\\Usuario.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Domain\\ReciclaNewContext\\Usuario.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DDD.Domain\\ReciclaNewContext\\Usuario.cs",
               "RelativeToolTip": "DDD.Domain\\ReciclaNewContext\\Usuario.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -607,23 +960,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 49,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Application.Api\\Program.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DDD.Application.Api\\Program.cs",
               "RelativeDocumentMoniker": "DDD.Application.Api\\Program.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Application.Api\\Program.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DDD.Application.Api\\Program.cs",
               "RelativeToolTip": "DDD.Application.Api\\Program.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAABhwJIAAAAKAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T12:24:15.97Z"
+              "WhenOpened": "2024-08-17T12:24:15.97Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 54,
               "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Application.Api\\Controllers\\UsuarioController.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DDD.Application.Api\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "DDD.Application.Api\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Application.Api\\Controllers\\UsuarioController.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DDD.Application.Api\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "DDD.Application.Api\\Controllers\\UsuarioController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -631,11 +985,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 58,
               "Title": "TipoDeCrimeController.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Application.Api\\Controllers\\TipoDeCrimeController.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DDD.Application.Api\\Controllers\\TipoDeCrimeController.cs",
               "RelativeDocumentMoniker": "DDD.Application.Api\\Controllers\\TipoDeCrimeController.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Application.Api\\Controllers\\TipoDeCrimeController.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DDD.Application.Api\\Controllers\\TipoDeCrimeController.cs",
               "RelativeToolTip": "DDD.Application.Api\\Controllers\\TipoDeCrimeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -643,11 +997,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 57,
               "Title": "IUsuarioApplication.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\ConsoleApp1\\Interface\\IUsuarioApplication.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\ConsoleApp1\\Interface\\IUsuarioApplication.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Interface\\IUsuarioApplication.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\ConsoleApp1\\Interface\\IUsuarioApplication.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\ConsoleApp1\\Interface\\IUsuarioApplication.cs",
               "RelativeToolTip": "ConsoleApp1\\Interface\\IUsuarioApplication.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -655,11 +1009,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 55,
               "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DomainService\\Service\\UsuarioService.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DomainService\\Service\\UsuarioService.cs",
               "RelativeDocumentMoniker": "DomainService\\Service\\UsuarioService.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DomainService\\Service\\UsuarioService.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DomainService\\Service\\UsuarioService.cs",
               "RelativeToolTip": "DomainService\\Service\\UsuarioService.cs",
               "ViewState": "AQIAACYAAAAAAAAAAAAIwDwAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -667,11 +1021,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 61,
               "Title": "IUsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\Interfaces\\IUsuarioRepository.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\Interfaces\\IUsuarioRepository.cs",
               "RelativeDocumentMoniker": "DDD.Infra.SQLServer\\Interfaces\\IUsuarioRepository.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DDD.Infra.SQLServer\\Interfaces\\IUsuarioRepository.cs",
               "RelativeToolTip": "DDD.Infra.SQLServer\\Interfaces\\IUsuarioRepository.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAswBIAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -679,11 +1033,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 59,
               "Title": "DenunciasController.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Application.Api\\Controllers\\DenunciasController.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DDD.Application.Api\\Controllers\\DenunciasController.cs",
               "RelativeDocumentMoniker": "DDD.Application.Api\\Controllers\\DenunciasController.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Application.Api\\Controllers\\DenunciasController.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DDD.Application.Api\\Controllers\\DenunciasController.cs",
               "RelativeToolTip": "DDD.Application.Api\\Controllers\\DenunciasController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -691,23 +1045,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "UsuarioRepositorySqlServer.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\Repositories\\UsuarioRepositorySqlServer.cs",
-              "RelativeDocumentMoniker": "DDD.Infra.SQLServer\\Repositories\\UsuarioRepositorySqlServer.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\Repositories\\UsuarioRepositorySqlServer.cs",
-              "RelativeToolTip": "DDD.Infra.SQLServer\\Repositories\\UsuarioRepositorySqlServer.cs",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAEwFgAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T12:24:16.001Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 60,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Application.Api\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DDD.Application.Api\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "DDD.Application.Api\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Application.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DDD.Application.Api\\Controllers\\AuthController.cs",
               "RelativeToolTip": "DDD.Application.Api\\Controllers\\AuthController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -715,27 +1057,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "UsuarioApplication.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\ConsoleApp1\\Application\\UsuarioApplication.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Application\\UsuarioApplication.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\ConsoleApp1\\Application\\UsuarioApplication.cs",
-              "RelativeToolTip": "ConsoleApp1\\Application\\UsuarioApplication.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAwwA4AAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T12:24:16.013Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 62,
               "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Domain\\ReciclaNewContext\\LoginViewModel.cs",
+              "DocumentMoniker": "D:\\Projeto\\ReciclaNew\\DDD.Domain\\ReciclaNewContext\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "DDD.Domain\\ReciclaNewContext\\LoginViewModel.cs",
-              "ToolTip": "C:\\Projects\\ReciclaNew\\PlataformaUniversidadeDDD\\DDD.Domain\\ReciclaNewContext\\LoginViewModel.cs",
+              "ToolTip": "D:\\Projeto\\ReciclaNew\\DDD.Domain\\ReciclaNewContext\\LoginViewModel.cs",
               "RelativeToolTip": "DDD.Domain\\ReciclaNewContext\\LoginViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-17T12:24:16.02Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 87,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }

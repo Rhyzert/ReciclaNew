@@ -11,9 +11,9 @@ namespace DomainService.Interface
     {
         ItemColetado GetItemColetado(int id);
         List<ItemColetado> GetItensColetados();
-        void InsertItemColetado(ItemColetado itemColetado);
-        void UpdateItemColetado(ItemColetado itemColetado);
-        void DeleteItemColetado(int id);
+        void InsertItem(ItemColetado itemColetado);
+        void UpdateItem(ItemColetado itemColetado);
+        void DeleteItem(int id);
 
     }
 }

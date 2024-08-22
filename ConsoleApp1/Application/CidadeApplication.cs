@@ -17,12 +17,12 @@ namespace ApplicationService.Application
         {
             _cidadeService = cidadeService;
         }
-        public List<Cidade> GetCidade()
+        public List<Cidade> GetCidades()
         {
             return _cidadeService.GetCidade();
         }
 
-        public Cidade GetCidadeById(int id)
+        public Cidade GetCidade(int id)
         {
             return _cidadeService.GetCidadeById(id);
         }

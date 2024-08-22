@@ -25,8 +25,8 @@ namespace DDD.Application.Api.Controllers
         {
             try
             {
-                var coleta = _coletasRepository.GetDenunciaConfirm();
-                return Ok(denunciasConfirm);
+                var coleta = _coletasRepository.GetColetas();
+                return Ok(coleta);
             }
             catch (Exception ex)
             {
@@ -35,12 +35,12 @@ namespace DDD.Application.Api.Controllers
         }
 
         [HttpGet("{id}")]
-        public IActionResult GetDenunciasConfirmById(int id)
+        public IActionResult GetColetas(int id)
         {
             try
             {
-                var denunciasConfirm = _denunciasConfirmRepository.GetDenunciaConfirmById(id);
-                return Ok(denunciasConfirm);
+                var coleta = _coletasRepository.GetColeta(id);
+                return Ok(coleta);
             }
             catch (Exception ex)
             {
@@ -49,11 +49,11 @@ namespace DDD.Application.Api.Controllers
         }
 
         [HttpPost]
-        public IActionResult InsertDenunciasConfirm(Bairro denunciasConfirm)
+        public IActionResult InsertColeta(Coleta coleta)
         {
             try
             {
-                _denunciasConfirmRepository.InsertDenunciaConfirm(denunciasConfirm);
+                _coletasRepository.InsertColeta(coleta);
                 return Ok();
             }
             catch (Exception ex)
@@ -63,11 +63,11 @@ namespace DDD.Application.Api.Controllers
         }
 
         [HttpPut]
-        public IActionResult UpdateDenunciasConfirm(Bairro denunciasConfirm)
+        public IActionResult UpdateColeta(Coleta coleta)
         {
             try
             {
-                _denunciasConfirmRepository.UpdateDenunciaConfirm(denunciasConfirm);
+                _coletasRepository.UpdateColeta(coleta);
                 return Ok();
             }
             catch (Exception ex)
@@ -77,11 +77,11 @@ namespace DDD.Application.Api.Controllers
         }
 
         [HttpDelete("{id}")]
-        public IActionResult DeleteDenunciasConfirm(int id)
+        public IActionResult DeleteColeta(int id)
         {
             try
             {
-                _denunciasConfirmRepository.DeleteDenunciaConfirm(id);
+                _coletasRepository.DeleteColeta(id);
                 return Ok();
             }
             catch (Exception ex)

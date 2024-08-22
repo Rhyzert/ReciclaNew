@@ -19,14 +19,29 @@ namespace DomainService.Service
             _estadoRepository = estadoRepository;
         }
 
-            public List<Estado> GetEstado()
+            public List<Estado> GetEstados()
             {
-                return _estadoRepository.GetEstado();
+                return _estadoRepository.GetEstados();
             }
 
-            public Estado GetEstadoById(int id)
+            public Estado GetEstado(int id)
             {
-                return _estadoRepository.GetEstadoById(id);
-            }       
+                return _estadoRepository.GetEstado(id);
+            }
+
+            public void InsertEstado(Estado estado)
+            {
+                _estadoRepository.InsertEstado(estado);
+            }
+
+            public void DeleteEstado(int id)
+            {
+
+                var estado = _estadoRepository.GetEstado(id);
+                if (estado == null)
+                    throw new Exception("Tipo De Crime Não Existe.");
+
+                _estadoRepository.DeleteEstado(estado);
+            }
     }
 }

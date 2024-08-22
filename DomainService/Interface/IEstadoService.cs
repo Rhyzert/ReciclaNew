@@ -10,9 +10,11 @@ namespace DomainService.Interface
     public interface IEstadoService
     {
         
-        List<Estado> GetEstado();
-        Estado GetEstadoById(int id);
-       
+        List<Estado> GetEstados();
+        Estado GetEstado(int id);
+        void InsertEstado(Estado estado);
+        void DeleteEstado(int id);
+
 
     }
 }

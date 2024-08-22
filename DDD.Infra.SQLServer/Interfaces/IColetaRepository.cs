@@ -10,10 +10,10 @@ namespace DDD.Infra.SQLServer.Interfaces
 {
     public interface IColetaRepository
     {
+        public Coleta GetColeta(int id);
         public List<Coleta> GetColetas();
-        public Coleta GetColetaById(int id);
-        public void InsertColetaConfirm(Coleta denunciasConfirm);
-        public void UpdateColetaConfirm(Coleta denunciasConfirm);
-        public void DeleteColetaConfirm(Coleta denunciasConfirm);
+        public void InsertColeta(Coleta coleta);
+        public void UpdateColeta(Coleta coleta);
+        public void DeleteColeta(Coleta coleta);
     }
 }

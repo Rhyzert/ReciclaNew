@@ -10,8 +10,10 @@ namespace DDD.Infra.SQLServer.Interfaces
 {
     public interface IEstadoRepository
     {
-        public List<Estado> GetEstado();
-        public Estado GetEstadoById(int id);
+        public List<Estado> GetEstados();
+        public Estado GetEstado(int id);
+        public void InsertEstado(Estado estado);
+        public void DeleteEstado(Estado estado);
 
     }
 }

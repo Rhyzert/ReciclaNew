@@ -9,8 +9,11 @@ namespace ApplicationService.Interface
 {
     public interface ICidadeApplication
     {
-        List<Cidade> GetCidade();
-        Cidade GetCidadeById(int id);
-        
+        Cidade GetCidade(int id);
+        List<Cidade> GetCidades();       
+        void InsertCidade(Cidade cidade);
+        void UpdateCidade(Cidade cidade);
+        void DeleteCidade(int id);
+
     }
 }
