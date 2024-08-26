@@ -59,3 +59,16 @@ D:\Projeto\ReciclaNew\DDD.Domain\obj\Debug\net6.0\Domain.dll
 D:\Projeto\ReciclaNew\DDD.Domain\obj\Debug\net6.0\refint\Domain.dll
 D:\Projeto\ReciclaNew\DDD.Domain\obj\Debug\net6.0\Domain.pdb
 D:\Projeto\ReciclaNew\DDD.Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Projects\ReciclaNew\DDD.Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Projects\ReciclaNew\DDD.Domain\bin\Debug\net6.0\Domain.dll
+C:\Projects\ReciclaNew\DDD.Domain\bin\Debug\net6.0\Domain.pdb
+C:\Projects\ReciclaNew\DDD.Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Projects\ReciclaNew\DDD.Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ReciclaNew\DDD.Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Projects\ReciclaNew\DDD.Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Projects\ReciclaNew\DDD.Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Projects\ReciclaNew\DDD.Domain\obj\Debug\net6.0\Domain.sourcelink.json
+C:\Projects\ReciclaNew\DDD.Domain\obj\Debug\net6.0\Domain.dll
+C:\Projects\ReciclaNew\DDD.Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Projects\ReciclaNew\DDD.Domain\obj\Debug\net6.0\Domain.pdb
+C:\Projects\ReciclaNew\DDD.Domain\obj\Debug\net6.0\ref\Domain.dll

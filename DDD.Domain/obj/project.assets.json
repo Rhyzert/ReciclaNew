@@ -1672,11 +1672,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projeto\\ReciclaNew\\DDD.Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Projects\\ReciclaNew\\DDD.Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "D:\\Projeto\\ReciclaNew\\DDD.Domain\\Domain.csproj",
+      "projectPath": "C:\\Projects\\ReciclaNew\\DDD.Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\leofl\\.nuget\\packages\\",
-      "outputPath": "D:\\Projeto\\ReciclaNew\\DDD.Domain\\obj\\",
+      "outputPath": "C:\\Projects\\ReciclaNew\\DDD.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leofl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1748,7 +1748,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   },
@@ -1757,7 +1757,7 @@
       "code": "NU1902",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'System.IdentityModel.Tokens.Jwt' 7.0.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
+      "message": "O pacote 'System.IdentityModel.Tokens.Jwt' 7.0.3 tem uma moderado vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
       "libraryId": "System.IdentityModel.Tokens.Jwt",
       "targetGraphs": [
         "net6.0"

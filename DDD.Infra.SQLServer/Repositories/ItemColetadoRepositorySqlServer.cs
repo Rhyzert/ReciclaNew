@@ -34,11 +34,11 @@ namespace DDD.Infra.SQLServer.Repositories
 
         }
 
-        public void InsertItem(ItemColetado denuncias)
+        public void InsertItem(ItemColetado itemColetado)
         {
             try
             {
-                _context.ItensColetados.Add(denuncias);
+                _context.ItensColetados.Add(itemColetado);
                 _context.SaveChanges();
             }
             catch (Exception ex)

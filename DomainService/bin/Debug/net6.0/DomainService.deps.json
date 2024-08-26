@@ -688,7 +688,10 @@
           "System.IdentityModel.Tokens.Jwt": "7.0.3"
         },
         "runtime": {
-          "DDD.Infra.SQLServer.dll": {}
+          "DDD.Infra.SQLServer.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Domain/1.0.0": {
@@ -700,7 +703,10 @@
           "System.IdentityModel.Tokens.Jwt": "7.0.3"
         },
         "runtime": {
-          "Domain.dll": {}
+          "Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

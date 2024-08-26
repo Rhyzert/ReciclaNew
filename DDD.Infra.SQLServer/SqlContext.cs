@@ -18,13 +18,6 @@ namespace DDD.Infra.SQLServer
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            /*modelBuilder.Entity<ClienteFuncionario>().HasKey(m => new { m.ClienteId, m.FuncionarioId});*/
-            /*            //modelBuilder.Entity<Matricula>().HasKey(m => new { m.AlunoId, m.DisciplinaId });
-                        modelBuilder.Entity<Aluno>()
-                            .HasMany(e => e.Disciplinas)
-                            .WithMany(e => e.Alunos)
-                            .UsingEntity<Matricula>();*/
-
 
             modelBuilder.Entity<User>().UseTpcMappingStrategy();
             /* modelBuilder.Entity<ClienteFuncionario>().UseTpcMappingStrategy();*/

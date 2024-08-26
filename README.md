@@ -1,6 +1,6 @@
-# Projeto DDDReportRadar
+# Projeto RecilaNew
 
-O projeto DDDReportRadar é uma aplicação implementada em C# que segue a arquitetura Domain-Driven Design (DDD), projetada para atender às necessidades específicas do domínio de DDDReportRadar.
+O projeto ReciclaNew é uma aplicação com fins beneficentes , implementada em C# que segue a arquitetura Domain-Driven Design (DDD), projetada para atender às necessidades específicas do domínio de DDDReportRadar.
 
 ## Estrutura do Projeto
 
@@ -26,12 +26,12 @@ Antes de começar a trabalhar no projeto, certifique-se de ter as seguintes ferr
 ## Configuração Inicial
 
 1. Clone este repositório:
-
+<!-- 
    ```bash
    Abra o visual studio, e clique em **Clonar Repositorio** - coloque, https://github.com/carlosDias19/DDDReportRadar.git
    - Vá em ferramentas, GERENCIADOR DE PACOTE NUGET, e abra o console. No console altere o projeto padrão para DDD.Infra.SQLserver, e digite 'update-database'
    - Testes
     Para testar, pode-se utilizar do swager (padrão de inicialização), ou testar com as requisições do front
     USUARIO ADM: Carlos@teste.com
-    SENHA: 123
+    SENHA: 123 -->
 

@@ -3161,11 +3161,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projeto\\ReciclaNew\\ConsoleApp1\\ApplicationService.csproj",
+      "projectUniqueName": "C:\\Projects\\ReciclaNew\\ConsoleApp1\\ApplicationService.csproj",
       "projectName": "ApplicationService",
-      "projectPath": "D:\\Projeto\\ReciclaNew\\ConsoleApp1\\ApplicationService.csproj",
+      "projectPath": "C:\\Projects\\ReciclaNew\\ConsoleApp1\\ApplicationService.csproj",
       "packagesPath": "C:\\Users\\leofl\\.nuget\\packages\\",
-      "outputPath": "D:\\Projeto\\ReciclaNew\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Projects\\ReciclaNew\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leofl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3183,8 +3183,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Projeto\\ReciclaNew\\DomainService\\DomainService.csproj": {
-              "projectPath": "D:\\Projeto\\ReciclaNew\\DomainService\\DomainService.csproj"
+            "C:\\Projects\\ReciclaNew\\DomainService\\DomainService.csproj": {
+              "projectPath": "C:\\Projects\\ReciclaNew\\DomainService\\DomainService.csproj"
             }
           }
         }
@@ -3219,7 +3219,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
