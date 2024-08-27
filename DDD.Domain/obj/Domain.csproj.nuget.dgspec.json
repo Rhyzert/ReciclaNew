@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\ReciclaNew\\DDD.Domain\\Domain.csproj": {}
+    "D:\\Projeto\\ReciclaNew\\DDD.Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\ReciclaNew\\DDD.Domain\\Domain.csproj": {
+    "D:\\Projeto\\ReciclaNew\\DDD.Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\ReciclaNew\\DDD.Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Projeto\\ReciclaNew\\DDD.Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Projects\\ReciclaNew\\DDD.Domain\\Domain.csproj",
+        "projectPath": "D:\\Projeto\\ReciclaNew\\DDD.Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\leofl\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\ReciclaNew\\DDD.Domain\\obj\\",
+        "outputPath": "D:\\Projeto\\ReciclaNew\\DDD.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leofl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

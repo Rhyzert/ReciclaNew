@@ -33,7 +33,7 @@ namespace DDD.Infra.SQLServer.Repositories
             }
         }
 
-        public List<Coletador> GetColetadors()
+        public List<Coletador> GetColetadores()
         {
             try
             {

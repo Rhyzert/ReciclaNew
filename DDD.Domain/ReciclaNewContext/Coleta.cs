@@ -23,8 +23,10 @@ namespace DDD.Domain.ReportRadarContext
         public string DataChegada { get; set;}
         public string DataSaida { get;set;}
         public Veiculo Veiculo { get; set;}
+        public Coletador Coletador { get; set;}
+        public List<Lixo> LixosColetados { get; set;}
 
-        public Coleta(Cidade cidade, string cep,string endereco, int numero, string bairro, string complemento, string datachegada, string datasaida, Veiculo veiculo)
+        public Coleta(Cidade cidade, string cep,string endereco, int numero, string bairro, string complemento, string datachegada, string datasaida, Veiculo veiculo, Coletador coletador)
         {
             Cidade = cidade;
             CEP = cep;
@@ -35,6 +37,7 @@ namespace DDD.Domain.ReportRadarContext
             DataChegada = datachegada;
             DataSaida = datasaida;
             Veiculo = veiculo;
+            Coletador = Coletador;
         }
 
     }

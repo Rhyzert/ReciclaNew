@@ -11,7 +11,7 @@ namespace DDD.Application.Api.Controllers
     [Route("api/[controller]")]
     [Authorize]
     [ApiController]
-    public class ColetadordorController : ControllerBase
+    public class ColetadorController : ControllerBase
     {
         readonly IColetadorApplication _coletadorRepository;
 

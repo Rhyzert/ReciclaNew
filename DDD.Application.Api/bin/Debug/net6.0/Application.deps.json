@@ -814,10 +814,7 @@
           "DomainService": "1.0.0"
         },
         "runtime": {
-          "ApplicationService.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "ApplicationService.dll": {}
         }
       },
       "DDD.Infra.SQLServer/1.0.0": {
@@ -831,10 +828,7 @@
           "System.IdentityModel.Tokens.Jwt": "7.0.3"
         },
         "runtime": {
-          "DDD.Infra.SQLServer.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "DDD.Infra.SQLServer.dll": {}
         }
       },
       "Domain/1.0.0": {
@@ -846,10 +840,7 @@
           "System.IdentityModel.Tokens.Jwt": "7.0.3"
         },
         "runtime": {
-          "Domain.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Domain.dll": {}
         }
       },
       "DomainService/1.0.0": {
@@ -858,10 +849,7 @@
           "Domain": "1.0.0"
         },
         "runtime": {
-          "DomainService.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "DomainService.dll": {}
         }
       }
     }

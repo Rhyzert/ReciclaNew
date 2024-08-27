@@ -17,7 +17,7 @@ namespace ApplicationService.Application
         {
             _coletadorService = coletadorService;
         }
-        public List<Coletador> GetColetadors()
+        public List<Coletador> GetColetadores()
         {
             return _coletadorService.GetColetadores();
         }
@@ -27,14 +27,14 @@ namespace ApplicationService.Application
             return _coletadorService.GetColetador(id);
         }
 
-        public void InsertColetador(Coletador Coletador)
+        public void InsertColetador(Coletador coletador)
         {
-            _coletadorService.InsertColetador(Coletador);
+            _coletadorService.InsertColetador(coletador);
         }
 
-        public void UpdateColetador(Coletador Coletador)
+        public void UpdateColetador(Coletador coletador)
         {
-            _coletadorService.UpdateColetador(Coletador);
+            _coletadorService.UpdateColetador(coletador);
         }
 
         public void DeleteColetador(int id)

@@ -23,7 +23,7 @@ namespace DomainService.Service
             return _coletadorRepository.GetColetador(id);
         }
 
-        public List<Coletador> GetColetadors()
+        public List<Coletador> GetColetadores()
         {
             return _coletadorRepository.GetColetadores();
         }

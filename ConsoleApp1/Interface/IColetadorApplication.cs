@@ -12,8 +12,8 @@ namespace ApplicationService.Interface
 
         Coletador GetColetador(int id);
         List<Coletador> GetColetadores();
-        void InsertColetador(Coleta coletador);
-        void UpdateColetador(Coleta coletador);
+        void InsertColetador(Coletador coletador);
+        void UpdateColetador(Coletador coletador);
         void DeleteColetador(int id);
     }
 }
