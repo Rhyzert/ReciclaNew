@@ -52,6 +52,7 @@ builder.Services.AddScoped<IItemColetadoRepository, ItemColetadoRepositorySqlSer
 builder.Services.AddScoped<IColetaRepository, ColetaRepositorySqlServer>();
 builder.Services.AddScoped<ICidadeRepository, CidadeRepositorySqlServer>();
 builder.Services.AddScoped<IVeiculoRepository, VeiculoRepositorySqlServer>();
+builder.Services.AddScoped<IColetadorRepository, ColetadorRepositorySqlServer>();
 
 //Dependency Injection Application
 builder.Services.AddScoped<IUsuarioApplication, UsuarioApplication>();
@@ -61,6 +62,7 @@ builder.Services.AddScoped<IItemColetadoApplication, ItemColetadoApplication>();
 builder.Services.AddScoped<ICidadeApplication, CidadeApplication>();
 builder.Services.AddScoped<IColetaApplication, ColetaApplication>();
 builder.Services.AddScoped<IVeiculoApplication, VeiculoApplication>();
+builder.Services.AddScoped<IColetadorApplication, ColetadorApplication>();
 
 
 
@@ -72,6 +74,7 @@ builder.Services.AddScoped<IItemColetadoService, ItemColetadoService>();
 builder.Services.AddScoped<ICidadeService, CidadeService>();
 builder.Services.AddScoped<IColetaService, ColetaService>();
 builder.Services.AddScoped<IVeiculoService, VeiculoService>();
+builder.Services.AddScoped<IColetadorService, ColetadorService>();
 
 
 

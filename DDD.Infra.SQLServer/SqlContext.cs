@@ -31,5 +31,6 @@ namespace DDD.Infra.SQLServer
         public DbSet<Coleta> Coletas { get; set; }
         public DbSet<Bairro> Bairros { get; set; }
         public DbSet<Veiculo> Veiculos { get; set; }
+        public DbSet<Coletador> Coletadores { get; set; }
     }
 }
